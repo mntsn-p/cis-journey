@@ -1,16 +1,16 @@
-## Hi there 👋
+# CIS Journey 🚀
 
-<!--
-**mntsn-p/mntsn-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student exploring technology, business, and digital skills.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Computer Science fundamentals
+- Technology & AI
+- University coursework
+- Personal growth & roadmap planning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## This repository contains
+- Study notes
+- Learning roadmap
+- Course materials
+- Practice projects
+- Ideas & experiments
